@@ -1,3 +1,3 @@
 # ADS2b
-RA: 1901764 
-RA: 1901768
+Everton de Sousa Siqueira - RA: 1901764 
+Rafael Costa de Oliveira - RA: 1901768
